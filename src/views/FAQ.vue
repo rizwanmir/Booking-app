@@ -1,14 +1,14 @@
 <template>
-  <h1>Staring a new page </h1>
+  <div>
+    <h2>Frequently Asked Questions</h2>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'home',
-
+  name: 'faq'
 }
 </script>
 
 <style>
-
 </style>
